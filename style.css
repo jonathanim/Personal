@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1
+{
+  padding:0;
+  margin: 0;
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+  padding: 5%;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1439761414027-4f4ebeeda3a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEzMDA0fQ&auto=format&fit=crop&w=1650&q=80);
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ div {
+   text-align: center;
+ }
+
+p {
+  display: inline-block;
+  font-family: 'Playfair Display', serif;
+  width: 30%;
+}
+li {
+  font-family: 'Playfair Display', serif;
+}
+
+img {
+  border-style: 3px solid black;
+}
+i {
+  margin-right: 2em;
+}
+
+
+
+.inside-box {
+  width: 450px;
+  background-color: rgba(0,0,0, 0.4);
+  text-align: center;
+  margin: auto;
+  margin-top: 13%;
+  margin-bottom: 13%;
+  color: white;
+  font-family: 'Pacifico', cursive, "arial", sans-serif;
+  padding: 20px 10px;
+  padding: 5%;
+
+}
+
+.box-image {
+  border-radius: 45%;
+  height: 200px;
+  width: 200px;
+}
+
+
+.white-div{
+  background-color: white;
+  text-align: center;
+  width: auto;
+  padding: 8%;
+}
+
+.projects {
+  color: white;
+}
+
+.carousel   {
+  width: 640px;
+  height: 400px;
+  margin: auto;
+
+}
